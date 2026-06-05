@@ -1,0 +1,106 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body 
+ {
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.container{
+  padding: 50px;
+}
+.section-one{
+  background-color: black;
+  color: rgb(246, 247, 248);
+  padding: 20px;
+}
+.section-one__contact{
+  background-color: rgb(226, 44, 44);
+  width: 60px;
+  height: 30px;
+  padding: 3px;
+  text-decoration: none;
+}
+.section-one__header{
+  margin-bottom: 20px;
+  font-size: 50px;
+}
+.section-one__dis{
+  margin-bottom: 20px;
+}
+.section-two{
+  margin: 20px;
+}
+.section-thiry{
+  display: inline-block;
+  background-color: rgb(49, 134, 255);
+  width: 150px;
+  height:150px;
+  padding: 30px;
+  border-radius: 8px;
+  vertical-align: top;
+
+}
+.section-four{
+    display: inline-block;
+  background-color:rgb(239, 123, 45);
+  width: 600px;
+  height:150px;
+  padding: 30px;
+  border-radius: 8px;
+  vertical-align: top;
+}
+.section-thiry__intrest{
+  list-style: none;
+}
+.section-four__list
+{
+  list-style: none;
+}
+.section-five__media
+{
+  font-size: 20px;
+}
+.section-five
+{
+  background-color: black;
+  color: aliceblue;
+  height:80px;
+  padding:20px;
+  margin-top: 20px;
+}
+.contact-form{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.contact-form__name,.contact-form__email,.contact-form__textarea,.contact-form__submit
+{
+  margin-top: 30px;
+}
+.contact-form__name{
+  border: none;
+  border-bottom: solid black 1px;
+}
+.contact-form__email
+{
+    border: none;
+  border-bottom: solid black 1px;
+}
+.contact-form__textarea
+{
+   border: none;
+  border-bottom: solid black 1px;
+}
+.contact-form__submit
+{
+  background-color: rgb(244, 111, 28);
+  padding: 10px;
+  border: none;
+}
+.section-five__bottum{
+  margin-top: 20px;
+}
